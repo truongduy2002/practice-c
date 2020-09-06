@@ -20,3 +20,18 @@ git clone https://github.com/truongduy2002/practice-c.git
 Cau lenh tren nay lay code ve thu muc hien tai, ti se thay no tao ra thu muc ten la practice-c.
 
 Gio cau tao 1 file ten la readme.md
+
+Moi khi ti thay doi gi do, thi go lenh git status, ti se nhin thay no ghi la co 1 file readme.md
+
+ti muon dua no len github, ti phai git add ten_file. Vi du git add readme.md
+
+2 buoc: git config --global user.name .... ti tu tu hay quan tam
+
+Gio ti commit len bang cau len git commit -m "day la commit dau tien cua Ti",
+cai nay hoi kho, tu tu cau noi tiep, ti cu lam theo roi dan dan hieu
+
+git push: la cau lenh de dua len github. Gio ti nhin tren github se thay....
+
+Ti thay no co tren github roi dung hong.
+
+Gio minh thay doi file do, vao xem tiep
