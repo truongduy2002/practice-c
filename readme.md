@@ -1,6 +1,6 @@
-cái màn hình đen này là nơi tí gõ lệnh để đưa code lên github.
+cái màn hình đen này là nơi tí gõ lệnh để đưa code lên github (sua vai chu cho vui).
 
-Ti hieu ve cau truc thu muc dung hông. Gio cau luoc qua may cau lenh nha
+Ti hieu ve cau truc thu muc dung hông. Gio cau luoc qua may cau lenh
 
 pwd: hoi thu muc hien tai la gi? /c/Users/LENOVO/Downloads
 ls: liet ke cac files trong thu muc do, ti thay hong ti thay
@@ -34,4 +34,20 @@ git push: la cau lenh de dua len github. Gio ti nhin tren github se thay....
 
 Ti thay no co tren github roi dung hong.
 
-Gio minh thay doi file do, vao xem tiep
+Gio minh thay doi file do, vao xem tiep.
+
+Khi ti thay doi gi do, ti se thay co dong "modified:   readme.md". Vay ti muon dua no len github tiep
+Ti se lam lai giong cac buoc tren: git add..., git commit ..., git push... (3 buoc)
+
+Ti tuong tuong, code cua ti se nam o do, va ti muon dua len github, cu tao ra 3 buoc do.
+Moi lan "git commit ..." la ti tao ra 1 su thay doi, ti co the xem lai no. Ti da thay doi 2 lan (2 commits)
+cho toi thoi diem bay gio.
+
+Ti muon xem, minh da thay doi nhung gi, thi bam vao tung muc. Vi du ti coi thu lan dau tien minh lam gi?
+Lan dau tien ti da them vao cac dong mau xanh la cay do. Lan thu 2 ti lam gi?
+
+Lan thu 2 ti cung them vao cac dong mau xanh tiep. (mau xanh la noi da them vao).
+
+TI cung co the xem minh da xoa gi, sua gi. Gio minh lam thu.
+
+Vua roi cau sua vai chu, va xoa 1 chu. Gio minh lam 3 buoc tren, xem co thay doi ko.
